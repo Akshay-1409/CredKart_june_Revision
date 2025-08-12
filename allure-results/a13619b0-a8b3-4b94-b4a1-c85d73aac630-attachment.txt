@@ -1,0 +1,38 @@
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:25 test_verify_login_excel_006 is started
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:27 Reading data from excel file
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:31 Opening the login page-->https://automation.credence.in/login
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:33 Reading data from row-->2
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:38 Enter email-->credencejune01@credence.in
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:40 Enter password-->Credence@123
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:42 Click login button
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:45 Verify login
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:47 login pass
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:48 Taking screenshot
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:51 Click menu button
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:53 Click logout button
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:31 Opening the login page-->https://automation.credence.in/login
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:33 Reading data from row-->3
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:38 Enter email-->credencejune01@credence.in1
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:40 Enter password-->Credence@123
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:42 Click login button
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:45 Verify login
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:57 login fail
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:58 Taking screenshot
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:31 Opening the login page-->https://automation.credence.in/login
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:33 Reading data from row-->4
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:38 Enter email-->credencejune01@credence.in
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:40 Enter password-->Credence@1231
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:42 Click login button
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:45 Verify login
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:57 login fail
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:58 Taking screenshot
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:31 Opening the login page-->https://automation.credence.in/login
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:33 Reading data from row-->5
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:38 Enter email-->credencejune01@credence.in1
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:40 Enter password-->Credence@1231
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:42 Click login button
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:45 Verify login
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:57 login fail
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:58 Taking screenshot
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:74 test_verify_login_excel_006 is passed
+[32mINFO    [0m Test_Login_Excel_005:test_Credkart_login_Excel_005.py:79 test_verify_login_excel_006 is completed

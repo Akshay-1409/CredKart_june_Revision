@@ -1,0 +1,740 @@
+2025-08-09 19:18:02,017 : INFO : Test_Checkout_003 : test_checkout_004 : 19 -->  Test_checkout_004 is started
+2025-08-09 19:18:02,017 : INFO : Test_Checkout_003 : test_checkout_004 : 20 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-09 19:18:03,893 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  credencejune01@credence.in
+2025-08-09 19:18:04,217 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Credence@123
+2025-08-09 19:18:04,429 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click login page
+2025-08-09 19:18:06,682 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click product button 
+2025-08-09 19:18:07,280 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click add to cart button
+2025-08-09 19:18:10,251 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Click proceed to checkout
+2025-08-09 19:18:11,110 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter first name
+2025-08-09 19:18:11,293 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter last name
+2025-08-09 19:18:11,377 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter phone number
+2025-08-09 19:18:11,553 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter address
+2025-08-09 19:18:11,671 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Enter zip Code
+2025-08-09 19:18:11,867 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter state
+2025-08-09 19:18:12,148 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter Owner name
+2025-08-09 19:18:12,198 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter cvv
+2025-08-09 19:18:12,240 : INFO : Test_Checkout_003 : test_checkout_004 : 51 -->  Enter card number
+2025-08-09 19:18:12,364 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Enter year
+2025-08-09 19:18:12,498 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Enter Month
+2025-08-09 19:18:12,641 : INFO : Test_Checkout_003 : test_checkout_004 : 60 -->  Click continue checkout button
+2025-08-09 19:18:13,726 : INFO : Test_Checkout_003 : test_checkout_004 : 62 -->  verify checkout
+2025-08-09 19:18:18,778 : INFO : Test_Checkout_003 : test_checkout_004 : 65 -->  test_checkout_004 is passed
+2025-08-09 19:18:18,778 : INFO : Test_Checkout_003 : test_checkout_004 : 66 -->  Taking screenshot
+2025-08-09 19:18:58,880 : INFO : Test_Checkout_003 : test_checkout_004 : 19 -->  Test_checkout_004 is started
+2025-08-09 19:18:58,880 : INFO : Test_Checkout_003 : test_checkout_004 : 20 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-09 19:19:00,609 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  credencejune01@credence.in
+2025-08-09 19:19:01,009 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Credence@123
+2025-08-09 19:19:01,152 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click login page
+2025-08-09 19:19:04,978 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click product button 
+2025-08-09 19:19:05,639 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click add to cart button
+2025-08-09 19:19:08,608 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Click proceed to checkout
+2025-08-09 19:19:09,418 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter first name
+2025-08-09 19:19:09,640 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter last name
+2025-08-09 19:19:09,703 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter phone number
+2025-08-09 19:19:09,759 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter address
+2025-08-09 19:19:09,829 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Enter zip Code
+2025-08-09 19:19:09,972 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter state
+2025-08-09 19:19:10,110 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter Owner name
+2025-08-09 19:19:10,153 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter cvv
+2025-08-09 19:19:10,189 : INFO : Test_Checkout_003 : test_checkout_004 : 51 -->  Enter card number
+2025-08-09 19:19:10,301 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Enter year
+2025-08-09 19:19:10,427 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Enter Month
+2025-08-09 19:19:10,571 : INFO : Test_Checkout_003 : test_checkout_004 : 60 -->  Click continue checkout button
+2025-08-09 19:19:11,687 : INFO : Test_Checkout_003 : test_checkout_004 : 62 -->  verify checkout
+2025-08-09 19:19:16,721 : INFO : Test_Checkout_003 : test_checkout_004 : 65 -->  test_checkout_004 is passed
+2025-08-09 19:19:16,722 : INFO : Test_Checkout_003 : test_checkout_004 : 66 -->  Taking screenshot
+2025-08-09 19:19:27,748 : INFO : Test_Login_001 : test_verify_title_001 : 31 -->  test_verify_title_001 is started
+2025-08-09 19:19:27,748 : INFO : Test_Login_001 : test_verify_title_001 : 32 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-09 19:19:29,231 : INFO : Test_Login_001 : test_verify_title_001 : 34 -->  verifying page title
+2025-08-09 19:19:29,236 : INFO : Test_Login_001 : test_verify_title_001 : 35 -->  title of the page -->CredKart
+2025-08-09 19:19:29,239 : INFO : Test_Login_001 : test_verify_title_001 : 37 -->  test_verify_title_001 is passed
+2025-08-09 19:19:29,240 : INFO : Test_Login_001 : test_verify_title_001 : 38 -->  Taking screenshot
+2025-08-09 19:19:29,483 : INFO : Test_Login_001 : test_verify_title_001 : 46 -->  test_verify_title_001 is completed
+2025-08-09 19:19:29,707 : INFO : Test_Login_001 : test_verify_login_002 : 58 -->  test_verify_login_002 is started
+2025-08-09 19:19:29,708 : INFO : Test_Login_001 : test_verify_login_002 : 59 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-09 19:19:30,201 : INFO : Test_Login_001 : test_verify_login_002 : 62 -->  Enter email
+2025-08-09 19:19:30,382 : INFO : Test_Login_001 : test_verify_login_002 : 64 -->  Enter password
+2025-08-09 19:19:30,471 : INFO : Test_Login_001 : test_verify_login_002 : 66 -->  Click login button
+2025-08-09 19:19:32,855 : INFO : Test_Login_001 : test_verify_login_002 : 68 -->  verify login
+2025-08-09 19:19:32,886 : INFO : Test_Login_001 : test_verify_login_002 : 70 -->  test_verify_login_002 is failed
+2025-08-09 19:19:32,886 : INFO : Test_Login_001 : test_verify_login_002 : 71 -->  Taking screenshot
+2025-08-09 19:19:32,989 : INFO : Test_Login_001 : test_verify_login_002 : 73 -->  Click menu button
+2025-08-09 19:19:33,082 : INFO : Test_Login_001 : test_verify_login_002 : 75 -->  Click logout button
+2025-08-09 19:19:34,384 : INFO : Test_Login_001 : test_verify_login_002 : 83 -->  test_verify_login_002 is completed
+2025-08-09 19:19:45,440 : INFO : Test_Registration_002 : test_registration_002 : 25 -->  test_registration_002 is started
+2025-08-09 19:19:45,440 : INFO : Test_Registration_002 : test_registration_002 : 26 -->  Openint the registration page -->>https://automation.credence.in/register
+2025-08-09 19:19:46,750 : INFO : Test_Registration_002 : test_registration_002 : 31 -->  Enter name -->Joshua
+2025-08-09 19:19:47,138 : INFO : Test_Registration_002 : test_registration_002 : 33 -->  Enter emai -->marissaoliver@example.com
+2025-08-09 19:19:47,285 : INFO : Test_Registration_002 : test_registration_002 : 35 -->  Enter password
+2025-08-09 19:19:47,384 : INFO : Test_Registration_002 : test_registration_002 : 37 -->  Enter confirm password
+2025-08-09 19:19:47,558 : INFO : Test_Registration_002 : test_registration_002 : 39 -->  Clck register button
+2025-08-09 19:19:49,745 : INFO : Test_Registration_002 : test_registration_002 : 41 -->  Verify registration
+2025-08-09 19:19:49,795 : INFO : Test_Registration_002 : test_registration_002 : 43 -->  test_registration_002 is passed
+2025-08-09 19:19:49,796 : INFO : Test_Registration_002 : test_registration_002 : 44 -->  Taking screenshot
+2025-08-09 19:19:49,889 : INFO : Test_Registration_002 : test_registration_002 : 46 -->  Click Menu button
+2025-08-09 19:19:49,984 : INFO : Test_Registration_002 : test_registration_002 : 48 -->  Click logout button
+2025-08-09 19:19:51,414 : INFO : Test_Registration_002 : test_registration_002 : 56 -->  test_registration_002 is completed
+2025-08-09 20:38:05,494 : INFO : Test_Checkout_003 : test_checkout_004 : 19 -->  Test_checkout_004 is started
+2025-08-09 20:38:05,494 : INFO : Test_Checkout_003 : test_checkout_004 : 20 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-09 20:38:07,235 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  credencejune01@credence.in
+2025-08-09 20:38:07,616 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Credence@123
+2025-08-09 20:38:07,800 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click login page
+2025-08-09 20:38:10,991 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click product button 
+2025-08-09 20:38:11,546 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click add to cart button
+2025-08-09 20:38:14,798 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Click proceed to checkout
+2025-08-09 20:38:16,182 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter first name
+2025-08-09 20:38:16,364 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter last name
+2025-08-09 20:38:16,435 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter phone number
+2025-08-09 20:38:16,561 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter address
+2025-08-09 20:38:16,797 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Enter zip Code
+2025-08-09 20:38:17,207 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter state
+2025-08-09 20:38:17,619 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter Owner name
+2025-08-09 20:38:17,688 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter cvv
+2025-08-09 20:38:17,748 : INFO : Test_Checkout_003 : test_checkout_004 : 51 -->  Enter card number
+2025-08-09 20:38:17,924 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Enter year
+2025-08-09 20:38:18,079 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Enter Month
+2025-08-09 20:38:18,202 : INFO : Test_Checkout_003 : test_checkout_004 : 60 -->  Click continue checkout button
+2025-08-09 20:38:19,380 : INFO : Test_Checkout_003 : test_checkout_004 : 62 -->  verify checkout
+2025-08-09 20:38:24,406 : INFO : Test_Checkout_003 : test_checkout_004 : 65 -->  test_checkout_004 is passed
+2025-08-09 20:38:24,406 : INFO : Test_Checkout_003 : test_checkout_004 : 66 -->  Taking screenshot
+2025-08-09 21:34:22,628 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-09 21:34:22,629 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-09 21:34:24,415 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in
+2025-08-09 21:34:24,931 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@123
+2025-08-09 21:34:25,024 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-09 21:34:27,203 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-09 21:34:27,232 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 38 -->  login pass
+2025-08-09 21:34:27,232 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 39 -->  Taking screenshot
+2025-08-09 21:34:27,324 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 41 -->  Click menu button
+2025-08-09 21:34:27,410 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 43 -->  Click logout button
+2025-08-09 21:34:28,618 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-09 21:34:28,618 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-09 21:34:28,628 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-09 21:34:28,628 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-09 21:34:29,096 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in1
+2025-08-09 21:34:29,209 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@123
+2025-08-09 21:34:29,264 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-09 21:34:30,137 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-09 21:34:40,290 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-09 21:34:40,291 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-09 21:34:40,336 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-09 21:34:40,336 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-09 21:34:40,342 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-09 21:34:40,343 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-09 21:34:40,823 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in
+2025-08-09 21:34:40,916 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@1231
+2025-08-09 21:34:40,974 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-09 21:34:41,895 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-09 21:34:52,023 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-09 21:34:52,023 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-09 21:34:52,069 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-09 21:34:52,069 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-09 21:34:52,072 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-09 21:34:52,073 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-09 21:34:52,534 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in1
+2025-08-09 21:34:52,662 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@1231
+2025-08-09 21:34:52,732 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-09 21:34:54,163 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-09 21:35:04,294 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-09 21:35:04,294 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-09 21:35:04,335 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-09 21:35:04,335 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-11 20:20:16,053 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:20:16,054 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:20:28,044 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:20:28,045 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:20:40,454 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:20:40,455 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:20:53,310 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:20:53,310 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:21:06,231 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:21:06,232 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:21:18,281 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:21:18,281 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:21:30,281 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:21:30,281 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:21:42,556 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:21:42,556 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:23:04,304 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:23:04,305 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:23:16,302 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:23:16,303 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:23:28,378 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:23:28,378 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:23:40,698 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:23:40,698 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:23:53,781 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:23:53,782 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:24:05,757 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:24:05,757 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:24:17,532 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:24:17,533 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:24:29,482 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:24:29,482 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:28:47,269 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:28:47,272 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:28:59,324 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:28:59,324 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:29:11,747 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:29:11,747 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:29:24,105 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:29:24,105 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:29:37,233 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:29:37,233 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:29:49,391 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:29:49,392 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:30:01,376 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:30:01,377 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:30:13,288 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 41 -->  login fail
+2025-08-11 20:30:13,288 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Taking screenshot
+2025-08-11 20:41:31,264 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:41:31,283 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:41:46,610 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:41:46,610 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:43:26,459 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:43:26,459 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:43:41,563 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:43:41,563 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:50:08,483 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:50:08,502 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:50:22,489 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:50:22,489 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:50:37,210 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:50:37,210 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:50:51,158 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:50:51,158 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:50:51,350 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 64 -->  test_verify_login_excel_006 is failed
+2025-08-11 20:51:06,333 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:51:06,334 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:51:20,243 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:51:20,244 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:51:34,261 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:51:34,262 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:51:48,079 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:51:48,080 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:51:48,211 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 64 -->  test_verify_login_excel_006 is failed
+2025-08-11 20:55:53,892 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:55:53,893 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:56:08,234 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:56:08,235 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:56:22,943 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:56:22,944 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:56:36,869 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 44 -->  login fail
+2025-08-11 20:56:36,870 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Taking screenshot
+2025-08-11 20:56:37,063 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 64 -->  test_verify_login_excel_006 is failed
+2025-08-11 21:06:13,700 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 25 -->  test_verify_login_excel_006 is started
+2025-08-11 21:06:13,702 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 27 -->  Reading data from excel file
+2025-08-11 21:06:13,713 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:06:17,325 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->2
+2025-08-11 21:06:17,429 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence
+2025-08-11 21:06:17,595 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-11 21:06:17,731 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:06:20,788 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:06:30,946 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:06:30,947 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:06:31,138 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:06:31,680 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->3
+2025-08-11 21:06:31,714 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-11 21:06:31,802 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-11 21:06:31,874 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:06:34,876 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:06:45,039 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:06:45,039 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:06:45,151 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:06:46,405 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->4
+2025-08-11 21:06:46,444 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in
+2025-08-11 21:06:46,526 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-11 21:06:46,594 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:06:49,539 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:06:59,680 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:06:59,680 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:06:59,806 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:07:00,321 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->5
+2025-08-11 21:07:00,365 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-11 21:07:00,439 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-11 21:07:00,499 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:07:03,457 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:07:13,668 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:07:13,669 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:07:13,818 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 77 -->  test_verify_login_excel_006 is failed
+2025-08-11 21:17:00,082 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 25 -->  test_verify_login_excel_006 is started
+2025-08-11 21:17:00,083 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 27 -->  Reading data from excel file
+2025-08-11 21:17:00,093 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:17:01,838 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->2
+2025-08-11 21:17:01,860 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence
+2025-08-11 21:17:02,217 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-11 21:17:02,467 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:17:05,827 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:17:15,998 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:17:15,998 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:17:16,251 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:17:16,845 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->3
+2025-08-11 21:17:16,882 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-11 21:17:17,023 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-11 21:17:17,114 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:17:20,140 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:17:30,288 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:17:30,288 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:17:30,431 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:17:31,684 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->4
+2025-08-11 21:17:31,717 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in
+2025-08-11 21:17:31,783 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-11 21:17:31,832 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:17:34,673 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:17:44,840 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:17:44,840 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:17:44,992 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:17:45,484 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->5
+2025-08-11 21:17:45,501 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-11 21:17:45,570 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-11 21:17:45,613 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:17:48,402 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:17:58,758 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:17:58,759 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:17:58,919 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 77 -->  test_verify_login_excel_006 is failed
+2025-08-11 21:19:45,513 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 25 -->  test_verify_login_excel_006 is started
+2025-08-11 21:19:45,513 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 27 -->  Reading data from excel file
+2025-08-11 21:19:45,524 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:19:47,020 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->2
+2025-08-11 21:19:47,050 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in
+2025-08-11 21:19:47,432 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-11 21:19:47,539 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:19:51,650 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:19:51,659 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 47 -->  login pass
+2025-08-11 21:19:51,660 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 48 -->  Taking screenshot
+2025-08-11 21:19:51,784 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 51 -->  Click menu button
+2025-08-11 21:19:51,878 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 53 -->  Click logout button
+2025-08-11 21:19:53,323 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:19:53,802 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->3
+2025-08-11 21:19:53,854 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-11 21:19:53,941 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-11 21:19:53,998 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:19:56,827 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:20:07,044 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:20:07,044 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:20:07,209 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:20:07,736 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->4
+2025-08-11 21:20:07,780 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in
+2025-08-11 21:20:07,864 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-11 21:20:07,924 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:20:10,952 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:20:21,124 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:20:21,125 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:20:21,329 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-11 21:20:21,868 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->5
+2025-08-11 21:20:21,910 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-11 21:20:21,999 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-11 21:20:22,080 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-11 21:20:24,913 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-11 21:20:35,053 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-11 21:20:35,053 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-11 21:20:35,225 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 74 -->  test_verify_login_excel_006 is passed
+2025-08-11 21:20:35,225 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 79 -->  test_verify_login_excel_006 is completed
+2025-08-12 02:28:53,481 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 02:28:53,481 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 02:28:59,523 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in
+2025-08-12 02:29:00,332 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@123
+2025-08-12 02:29:00,751 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 02:29:05,744 : INFO : Test_Login_001 : test_verify_login_002 : 58 -->  test_verify_login_002 is started
+2025-08-12 02:29:05,744 : INFO : Test_Login_001 : test_verify_login_002 : 59 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 02:29:07,087 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 02:29:07,133 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 38 -->  login pass
+2025-08-12 02:29:07,134 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 39 -->  Taking screenshot
+2025-08-12 02:29:09,067 : INFO : Test_Login_001 : test_verify_login_002 : 62 -->  Enter email
+2025-08-12 02:29:09,877 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 41 -->  Click menu button
+2025-08-12 02:29:09,880 : INFO : Test_Login_001 : test_verify_login_002 : 64 -->  Enter password
+2025-08-12 02:29:10,169 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 43 -->  Click logout button
+2025-08-12 02:29:10,244 : INFO : Test_Login_001 : test_verify_login_002 : 66 -->  Click login button
+2025-08-12 02:29:14,810 : INFO : Test_Checkout_003 : test_checkout_004 : 19 -->  Test_checkout_004 is started
+2025-08-12 02:29:14,810 : INFO : Test_Checkout_003 : test_checkout_004 : 20 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 02:29:17,392 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 02:29:17,392 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 02:29:19,216 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  credencejune01@credence.in
+2025-08-12 02:29:19,422 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 02:29:19,422 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 02:29:19,756 : INFO : Test_Login_001 : test_verify_login_002 : 68 -->  verify login
+2025-08-12 02:29:19,766 : INFO : Test_Login_001 : test_verify_login_002 : 70 -->  test_verify_login_002 is failed
+2025-08-12 02:29:19,767 : INFO : Test_Login_001 : test_verify_login_002 : 71 -->  Taking screenshot
+2025-08-12 02:29:20,162 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in1
+2025-08-12 02:29:20,472 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Credence@123
+2025-08-12 02:29:20,692 : INFO : Test_Login_001 : test_verify_login_002 : 73 -->  Click menu button
+2025-08-12 02:29:20,843 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@123
+2025-08-12 02:29:20,892 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click login page
+2025-08-12 02:29:21,170 : INFO : Test_Login_001 : test_verify_login_002 : 75 -->  Click logout button
+2025-08-12 02:29:21,654 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 02:29:23,338 : INFO : Test_Login_001 : test_verify_login_002 : 83 -->  test_verify_login_002 is completed
+2025-08-12 02:29:23,460 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click product button 
+2025-08-12 02:29:24,019 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 02:29:24,815 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 02:29:24,815 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 02:29:24,872 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click add to cart button
+2025-08-12 02:29:26,748 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in
+2025-08-12 02:29:27,682 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@1231
+2025-08-12 02:29:27,923 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 02:29:28,462 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Click proceed to checkout
+2025-08-12 02:29:30,332 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 02:29:30,783 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter first name
+2025-08-12 02:29:31,552 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter last name
+2025-08-12 02:29:31,961 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter phone number
+2025-08-12 02:29:32,397 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter address
+2025-08-12 02:29:32,695 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Enter zip Code
+2025-08-12 02:29:33,061 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter state
+2025-08-12 02:29:33,293 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter Owner name
+2025-08-12 02:29:33,399 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter cvv
+2025-08-12 02:29:33,620 : INFO : Test_Checkout_003 : test_checkout_004 : 51 -->  Enter card number
+2025-08-12 02:29:34,131 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Enter year
+2025-08-12 02:29:34,330 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 02:29:34,330 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 02:29:34,446 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Enter Month
+2025-08-12 02:29:34,480 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 02:29:34,481 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 02:29:34,680 : INFO : Test_Checkout_003 : test_checkout_004 : 60 -->  Click continue checkout button
+2025-08-12 02:29:35,903 : INFO : Test_Checkout_003 : test_checkout_004 : 62 -->  verify checkout
+2025-08-12 02:29:40,356 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 02:29:40,356 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 02:29:40,425 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 02:29:40,425 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 02:29:40,435 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 02:29:40,435 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 02:29:40,867 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in1
+2025-08-12 02:29:40,946 : INFO : Test_Checkout_003 : test_checkout_004 : 65 -->  test_checkout_004 is passed
+2025-08-12 02:29:40,946 : INFO : Test_Checkout_003 : test_checkout_004 : 66 -->  Taking screenshot
+2025-08-12 02:29:41,005 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@1231
+2025-08-12 02:29:41,684 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 02:29:42,725 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 02:29:52,990 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 02:29:52,990 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 02:29:53,250 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 02:29:53,250 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 02:30:08,654 : INFO : Test_Registration_002 : test_registration_002 : 25 -->  test_registration_002 is started
+2025-08-12 02:30:08,654 : INFO : Test_Registration_002 : test_registration_002 : 26 -->  Openint the registration page -->>https://automation.credence.in/register
+2025-08-12 02:30:10,504 : INFO : Test_Registration_002 : test_registration_002 : 31 -->  Enter name -->Michael
+2025-08-12 02:30:10,877 : INFO : Test_Registration_002 : test_registration_002 : 33 -->  Enter emai -->gbrooks@example.net
+2025-08-12 02:30:11,532 : INFO : Test_Registration_002 : test_registration_002 : 35 -->  Enter password
+2025-08-12 02:30:11,641 : INFO : Test_Registration_002 : test_registration_002 : 37 -->  Enter confirm password
+2025-08-12 02:30:11,741 : INFO : Test_Registration_002 : test_registration_002 : 39 -->  Clck register button
+2025-08-12 02:30:12,427 : INFO : Test_Login_001 : test_verify_title_001 : 31 -->  test_verify_title_001 is started
+2025-08-12 02:30:12,427 : INFO : Test_Login_001 : test_verify_title_001 : 32 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 02:30:12,999 : INFO : Test_Registration_002 : test_registration_002 : 41 -->  Verify registration
+2025-08-12 02:30:14,474 : INFO : Test_Login_001 : test_verify_title_001 : 34 -->  verifying page title
+2025-08-12 02:30:14,500 : INFO : Test_Login_001 : test_verify_title_001 : 35 -->  title of the page -->CredKart
+2025-08-12 02:30:14,503 : INFO : Test_Login_001 : test_verify_title_001 : 37 -->  test_verify_title_001 is passed
+2025-08-12 02:30:14,503 : INFO : Test_Login_001 : test_verify_title_001 : 38 -->  Taking screenshot
+2025-08-12 02:30:14,674 : INFO : Test_Login_001 : test_verify_title_001 : 46 -->  test_verify_title_001 is completed
+2025-08-12 02:30:23,068 : INFO : Test_Registration_002 : test_registration_002 : 52 -->  test_registration_002 os failed
+2025-08-12 02:30:23,068 : INFO : Test_Registration_002 : test_registration_002 : 53 -->  Taking screenshot
+2025-08-12 02:30:23,134 : INFO : Test_Registration_002 : test_registration_002 : 25 -->  test_registration_002 is started
+2025-08-12 02:30:23,134 : INFO : Test_Registration_002 : test_registration_002 : 26 -->  Openint the registration page -->>https://automation.credence.in/register
+2025-08-12 02:30:23,602 : INFO : Test_Registration_002 : test_registration_002 : 31 -->  Enter name -->Steven
+2025-08-12 02:30:23,743 : INFO : Test_Registration_002 : test_registration_002 : 33 -->  Enter emai -->lesternancy@example.net
+2025-08-12 02:30:23,821 : INFO : Test_Registration_002 : test_registration_002 : 35 -->  Enter password
+2025-08-12 02:30:23,886 : INFO : Test_Registration_002 : test_registration_002 : 37 -->  Enter confirm password
+2025-08-12 02:30:23,947 : INFO : Test_Registration_002 : test_registration_002 : 39 -->  Clck register button
+2025-08-12 02:30:25,941 : INFO : Test_Registration_002 : test_registration_002 : 41 -->  Verify registration
+2025-08-12 02:30:25,977 : INFO : Test_Registration_002 : test_registration_002 : 43 -->  test_registration_002 is passed
+2025-08-12 02:30:25,977 : INFO : Test_Registration_002 : test_registration_002 : 44 -->  Taking screenshot
+2025-08-12 02:30:26,102 : INFO : Test_Registration_002 : test_registration_002 : 46 -->  Click Menu button
+2025-08-12 02:30:26,204 : INFO : Test_Registration_002 : test_registration_002 : 48 -->  Click logout button
+2025-08-12 02:30:27,409 : INFO : Test_Registration_002 : test_registration_002 : 56 -->  test_registration_002 is completed
+2025-08-12 11:08:56,794 : INFO : Test_Checkout_003 : test_checkout_004 : 19 -->  Test_checkout_004 is started
+2025-08-12 11:08:56,795 : INFO : Test_Checkout_003 : test_checkout_004 : 20 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 11:08:59,316 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  credencejune01@credence.in
+2025-08-12 11:08:59,917 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Credence@123
+2025-08-12 11:08:59,969 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click login page
+2025-08-12 11:09:03,735 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click product button 
+2025-08-12 11:09:05,366 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click add to cart button
+2025-08-12 11:09:08,559 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Click proceed to checkout
+2025-08-12 11:09:10,619 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter first name
+2025-08-12 11:09:10,992 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter last name
+2025-08-12 11:09:11,113 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter phone number
+2025-08-12 11:09:11,232 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter address
+2025-08-12 11:09:11,623 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Enter zip Code
+2025-08-12 11:09:12,073 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter state
+2025-08-12 11:09:12,601 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter Owner name
+2025-08-12 11:09:12,674 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter cvv
+2025-08-12 11:09:12,735 : INFO : Test_Checkout_003 : test_checkout_004 : 51 -->  Enter card number
+2025-08-12 11:09:13,213 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Enter year
+2025-08-12 11:09:13,703 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Enter Month
+2025-08-12 11:09:14,070 : INFO : Test_Checkout_003 : test_checkout_004 : 60 -->  Click continue checkout button
+2025-08-12 11:09:15,683 : INFO : Test_Checkout_003 : test_checkout_004 : 62 -->  verify checkout
+2025-08-12 11:09:20,737 : INFO : Test_Checkout_003 : test_checkout_004 : 65 -->  test_checkout_004 is passed
+2025-08-12 11:09:20,737 : INFO : Test_Checkout_003 : test_checkout_004 : 66 -->  Taking screenshot
+2025-08-12 11:10:39,934 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 11:10:39,935 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:10:41,438 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in1
+2025-08-12 11:10:41,719 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@123
+2025-08-12 11:10:41,770 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 11:10:43,554 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 11:10:53,913 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 11:10:53,914 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 11:10:54,044 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 11:10:54,044 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 11:11:47,274 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 11:11:47,275 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:11:51,853 : INFO : Test_Login_001 : test_verify_login_002 : 58 -->  test_verify_login_002 is started
+2025-08-12 11:11:51,855 : INFO : Test_Login_001 : test_verify_login_002 : 59 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 11:11:53,658 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in
+2025-08-12 11:11:54,675 : INFO : Test_Login_001 : test_verify_login_002 : 62 -->  Enter email
+2025-08-12 11:11:54,878 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@1231
+2025-08-12 11:11:55,418 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 11:11:55,708 : INFO : Test_Login_001 : test_verify_login_002 : 64 -->  Enter password
+2025-08-12 11:11:56,091 : INFO : Test_Login_001 : test_verify_login_002 : 66 -->  Click login button
+2025-08-12 11:11:57,204 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 11:11:58,917 : INFO : Test_Login_001 : test_verify_login_002 : 68 -->  verify login
+2025-08-12 11:11:59,195 : INFO : Test_Login_001 : test_verify_login_002 : 70 -->  test_verify_login_002 is failed
+2025-08-12 11:11:59,196 : INFO : Test_Login_001 : test_verify_login_002 : 71 -->  Taking screenshot
+2025-08-12 11:12:00,273 : INFO : Test_Login_001 : test_verify_login_002 : 73 -->  Click menu button
+2025-08-12 11:12:00,772 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 11:12:00,773 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:12:02,053 : INFO : Test_Login_001 : test_verify_login_002 : 75 -->  Click logout button
+2025-08-12 11:12:03,821 : INFO : Test_Login_001 : test_verify_login_002 : 83 -->  test_verify_login_002 is completed
+2025-08-12 11:12:05,165 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in
+2025-08-12 11:12:05,535 : INFO : Test_Checkout_003 : test_checkout_004 : 19 -->  Test_checkout_004 is started
+2025-08-12 11:12:05,536 : INFO : Test_Checkout_003 : test_checkout_004 : 20 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 11:12:06,044 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@123
+2025-08-12 11:12:06,236 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 11:12:07,388 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  credencejune01@credence.in
+2025-08-12 11:12:07,709 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 11:12:07,709 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 11:12:07,877 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 11:12:07,878 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 11:12:08,283 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Credence@123
+2025-08-12 11:12:08,418 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click login page
+2025-08-12 11:12:09,440 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 11:12:09,441 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:12:09,830 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 11:12:09,969 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 38 -->  login pass
+2025-08-12 11:12:09,969 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 39 -->  Taking screenshot
+2025-08-12 11:12:10,094 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in1
+2025-08-12 11:12:10,385 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 41 -->  Click menu button
+2025-08-12 11:12:10,642 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@1231
+2025-08-12 11:12:10,697 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click product button 
+2025-08-12 11:12:10,719 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 43 -->  Click logout button
+2025-08-12 11:12:10,924 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 11:12:11,419 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click add to cart button
+2025-08-12 11:12:11,867 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 11:12:12,382 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 11:12:12,383 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 11:12:12,436 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 11:12:12,437 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:12:13,004 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in1
+2025-08-12 11:12:13,310 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@123
+2025-08-12 11:12:13,556 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 11:12:14,555 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Click proceed to checkout
+2025-08-12 11:12:14,967 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 11:12:15,904 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter first name
+2025-08-12 11:12:16,157 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter last name
+2025-08-12 11:12:16,236 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter phone number
+2025-08-12 11:12:16,360 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter address
+2025-08-12 11:12:16,465 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Enter zip Code
+2025-08-12 11:12:16,729 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter state
+2025-08-12 11:12:17,018 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter Owner name
+2025-08-12 11:12:17,141 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter cvv
+2025-08-12 11:12:17,220 : INFO : Test_Checkout_003 : test_checkout_004 : 51 -->  Enter card number
+2025-08-12 11:12:17,453 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Enter year
+2025-08-12 11:12:17,622 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Enter Month
+2025-08-12 11:12:17,757 : INFO : Test_Checkout_003 : test_checkout_004 : 60 -->  Click continue checkout button
+2025-08-12 11:12:18,782 : INFO : Test_Checkout_003 : test_checkout_004 : 62 -->  verify checkout
+2025-08-12 11:12:22,225 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 11:12:22,225 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 11:12:22,335 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 11:12:22,335 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 11:12:23,818 : INFO : Test_Checkout_003 : test_checkout_004 : 65 -->  test_checkout_004 is passed
+2025-08-12 11:12:23,818 : INFO : Test_Checkout_003 : test_checkout_004 : 66 -->  Taking screenshot
+2025-08-12 11:12:25,969 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 11:12:25,969 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 11:12:26,369 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 11:12:26,370 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 11:12:37,347 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 25 -->  test_verify_login_excel_006 is started
+2025-08-12 11:12:37,348 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 27 -->  Reading data from excel file
+2025-08-12 11:12:37,365 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:12:39,074 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->2
+2025-08-12 11:12:39,107 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in
+2025-08-12 11:12:39,448 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-12 11:12:39,619 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-12 11:12:44,003 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-12 11:12:44,010 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 47 -->  login pass
+2025-08-12 11:12:44,010 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 48 -->  Taking screenshot
+2025-08-12 11:12:44,290 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 51 -->  Click menu button
+2025-08-12 11:12:44,462 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 53 -->  Click logout button
+2025-08-12 11:12:44,920 : INFO : Test_Login_001 : test_verify_title_001 : 31 -->  test_verify_title_001 is started
+2025-08-12 11:12:44,920 : INFO : Test_Login_001 : test_verify_title_001 : 32 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 11:12:46,416 : INFO : Test_Registration_002 : test_registration_002 : 25 -->  test_registration_002 is started
+2025-08-12 11:12:46,416 : INFO : Test_Registration_002 : test_registration_002 : 26 -->  Openint the registration page -->>https://automation.credence.in/register
+2025-08-12 11:12:46,717 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:12:47,694 : INFO : Test_Login_001 : test_verify_title_001 : 34 -->  verifying page title
+2025-08-12 11:12:47,729 : INFO : Test_Login_001 : test_verify_title_001 : 35 -->  title of the page -->CredKart
+2025-08-12 11:12:47,734 : INFO : Test_Login_001 : test_verify_title_001 : 37 -->  test_verify_title_001 is passed
+2025-08-12 11:12:47,735 : INFO : Test_Login_001 : test_verify_title_001 : 38 -->  Taking screenshot
+2025-08-12 11:12:47,959 : INFO : Test_Login_001 : test_verify_title_001 : 46 -->  test_verify_title_001 is completed
+2025-08-12 11:12:47,970 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->3
+2025-08-12 11:12:48,022 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-12 11:12:48,161 : INFO : Test_Registration_002 : test_registration_002 : 31 -->  Enter name -->Courtney
+2025-08-12 11:12:48,729 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-12 11:12:48,865 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-12 11:12:48,968 : INFO : Test_Registration_002 : test_registration_002 : 33 -->  Enter emai -->christopherlee@example.org
+2025-08-12 11:12:49,123 : INFO : Test_Registration_002 : test_registration_002 : 35 -->  Enter password
+2025-08-12 11:12:49,250 : INFO : Test_Registration_002 : test_registration_002 : 37 -->  Enter confirm password
+2025-08-12 11:12:49,366 : INFO : Test_Registration_002 : test_registration_002 : 39 -->  Clck register button
+2025-08-12 11:12:51,361 : INFO : Test_Registration_002 : test_registration_002 : 41 -->  Verify registration
+2025-08-12 11:12:51,439 : INFO : Test_Registration_002 : test_registration_002 : 43 -->  test_registration_002 is passed
+2025-08-12 11:12:51,439 : INFO : Test_Registration_002 : test_registration_002 : 44 -->  Taking screenshot
+2025-08-12 11:12:51,810 : INFO : Test_Registration_002 : test_registration_002 : 46 -->  Click Menu button
+2025-08-12 11:12:52,151 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-12 11:12:52,246 : INFO : Test_Registration_002 : test_registration_002 : 48 -->  Click logout button
+2025-08-12 11:12:53,715 : INFO : Test_Registration_002 : test_registration_002 : 56 -->  test_registration_002 is completed
+2025-08-12 11:13:02,432 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-12 11:13:02,432 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-12 11:13:02,570 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:13:03,115 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->4
+2025-08-12 11:13:03,150 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in
+2025-08-12 11:13:03,247 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-12 11:13:03,319 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-12 11:13:06,253 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-12 11:13:16,277 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-12 11:13:16,278 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-12 11:13:16,390 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:13:17,150 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->5
+2025-08-12 11:13:17,199 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-12 11:13:17,285 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-12 11:13:17,361 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-12 11:13:20,211 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-12 11:13:30,493 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-12 11:13:30,493 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-12 11:13:30,599 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 74 -->  test_verify_login_excel_006 is passed
+2025-08-12 11:13:30,599 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 79 -->  test_verify_login_excel_006 is completed
+2025-08-12 11:14:14,409 : INFO : Test_Checkout_003 : test_checkout_004 : 19 -->  Test_checkout_004 is started
+2025-08-12 11:14:14,409 : INFO : Test_Checkout_003 : test_checkout_004 : 20 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 11:14:16,187 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  credencejune01@credence.in
+2025-08-12 11:14:16,793 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Credence@123
+2025-08-12 11:14:17,228 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click login page
+2025-08-12 11:14:19,913 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 11:14:19,913 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:14:21,387 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click product button 
+2025-08-12 11:14:21,951 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in
+2025-08-12 11:14:22,408 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click add to cart button
+2025-08-12 11:14:23,204 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@123
+2025-08-12 11:14:23,366 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 11:14:25,896 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 11:14:26,054 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Click proceed to checkout
+2025-08-12 11:14:26,113 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 38 -->  login pass
+2025-08-12 11:14:26,114 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 39 -->  Taking screenshot
+2025-08-12 11:14:26,377 : INFO : Test_Login_001 : test_verify_login_002 : 58 -->  test_verify_login_002 is started
+2025-08-12 11:14:26,377 : INFO : Test_Login_001 : test_verify_login_002 : 59 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 11:14:26,863 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 41 -->  Click menu button
+2025-08-12 11:14:27,629 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 43 -->  Click logout button
+2025-08-12 11:14:29,152 : INFO : Test_Login_001 : test_verify_login_002 : 62 -->  Enter email
+2025-08-12 11:14:29,700 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter first name
+2025-08-12 11:14:29,927 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 11:14:29,927 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 11:14:30,093 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 11:14:30,093 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:14:30,387 : INFO : Test_Login_001 : test_verify_login_002 : 64 -->  Enter password
+2025-08-12 11:14:30,716 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in1
+2025-08-12 11:14:30,818 : INFO : Test_Login_001 : test_verify_login_002 : 66 -->  Click login button
+2025-08-12 11:14:31,196 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter last name
+2025-08-12 11:14:31,502 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 11:14:31,503 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:14:31,711 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@123
+2025-08-12 11:14:31,770 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 11:14:31,962 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter phone number
+2025-08-12 11:14:32,316 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter address
+2025-08-12 11:14:32,808 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Enter zip Code
+2025-08-12 11:14:32,998 : INFO : Test_Login_001 : test_verify_login_002 : 68 -->  verify login
+2025-08-12 11:14:33,009 : INFO : Test_Login_001 : test_verify_login_002 : 70 -->  test_verify_login_002 is failed
+2025-08-12 11:14:33,009 : INFO : Test_Login_001 : test_verify_login_002 : 71 -->  Taking screenshot
+2025-08-12 11:14:33,171 : INFO : Test_Login_001 : test_verify_login_002 : 73 -->  Click menu button
+2025-08-12 11:14:33,285 : INFO : Test_Login_001 : test_verify_login_002 : 75 -->  Click logout button
+2025-08-12 11:14:33,672 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 11:14:33,841 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in
+2025-08-12 11:14:34,065 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter state
+2025-08-12 11:14:34,129 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@1231
+2025-08-12 11:14:34,341 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 11:14:34,370 : INFO : Test_Login_001 : test_verify_login_002 : 83 -->  test_verify_login_002 is completed
+2025-08-12 11:14:34,946 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter Owner name
+2025-08-12 11:14:35,083 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter cvv
+2025-08-12 11:14:35,307 : INFO : Test_Checkout_003 : test_checkout_004 : 51 -->  Enter card number
+2025-08-12 11:14:35,559 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Enter year
+2025-08-12 11:14:35,737 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Enter Month
+2025-08-12 11:14:35,867 : INFO : Test_Checkout_003 : test_checkout_004 : 60 -->  Click continue checkout button
+2025-08-12 11:14:36,006 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 11:14:37,695 : INFO : Test_Checkout_003 : test_checkout_004 : 62 -->  verify checkout
+2025-08-12 11:14:42,743 : INFO : Test_Checkout_003 : test_checkout_004 : 65 -->  test_checkout_004 is passed
+2025-08-12 11:14:42,743 : INFO : Test_Checkout_003 : test_checkout_004 : 66 -->  Taking screenshot
+2025-08-12 11:14:43,930 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 11:14:43,930 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 11:14:44,088 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 11:14:44,089 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 11:14:46,100 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 11:14:46,101 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 11:14:46,161 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 11:14:46,161 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 11:14:46,175 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 23 -->  test_verify_login_param_005 is started
+2025-08-12 11:14:46,175 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 24 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:14:46,772 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 30 -->  Enter email -->credencejune01@credence.in1
+2025-08-12 11:14:46,990 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 32 -->  enter password -->Credence@1231
+2025-08-12 11:14:47,157 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 34 -->  Clicking Login button
+2025-08-12 11:14:48,069 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 36 -->  verify login
+2025-08-12 11:14:53,741 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 25 -->  test_verify_login_excel_006 is started
+2025-08-12 11:14:53,742 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 27 -->  Reading data from excel file
+2025-08-12 11:14:53,757 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:14:56,702 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->2
+2025-08-12 11:14:56,788 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in
+2025-08-12 11:14:57,122 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-12 11:14:57,248 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-12 11:14:58,197 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 47 -->  login fail
+2025-08-12 11:14:58,197 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 48 -->  Taking screenshot
+2025-08-12 11:14:58,265 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 53 -->  test_verify_login_param_005 is passed
+2025-08-12 11:14:58,265 : INFO : Test_Login_params_002 : test_verify_login_param_005 : 59 -->  test_verify_login_param_005 is completed
+2025-08-12 11:15:01,051 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-12 11:15:01,058 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 47 -->  login pass
+2025-08-12 11:15:01,059 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 48 -->  Taking screenshot
+2025-08-12 11:15:01,151 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 51 -->  Click menu button
+2025-08-12 11:15:01,242 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 53 -->  Click logout button
+2025-08-12 11:15:02,614 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:15:03,085 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->3
+2025-08-12 11:15:03,125 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-12 11:15:03,433 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@123
+2025-08-12 11:15:03,585 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-12 11:15:06,463 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-12 11:15:06,586 : INFO : Test_Registration_002 : test_registration_002 : 25 -->  test_registration_002 is started
+2025-08-12 11:15:06,586 : INFO : Test_Registration_002 : test_registration_002 : 26 -->  Openint the registration page -->>https://automation.credence.in/register
+2025-08-12 11:15:08,374 : INFO : Test_Registration_002 : test_registration_002 : 31 -->  Enter name -->Amanda
+2025-08-12 11:15:08,896 : INFO : Test_Registration_002 : test_registration_002 : 33 -->  Enter emai -->natashastark@example.com
+2025-08-12 11:15:09,356 : INFO : Test_Registration_002 : test_registration_002 : 35 -->  Enter password
+2025-08-12 11:15:09,408 : INFO : Test_Login_001 : test_verify_title_001 : 31 -->  test_verify_title_001 is started
+2025-08-12 11:15:09,408 : INFO : Test_Login_001 : test_verify_title_001 : 32 -->  Opening the login page -->https://automation.credence.in/login
+2025-08-12 11:15:09,554 : INFO : Test_Registration_002 : test_registration_002 : 37 -->  Enter confirm password
+2025-08-12 11:15:09,671 : INFO : Test_Registration_002 : test_registration_002 : 39 -->  Clck register button
+2025-08-12 11:15:12,253 : INFO : Test_Login_001 : test_verify_title_001 : 34 -->  verifying page title
+2025-08-12 11:15:12,303 : INFO : Test_Login_001 : test_verify_title_001 : 35 -->  title of the page -->CredKart
+2025-08-12 11:15:12,381 : INFO : Test_Login_001 : test_verify_title_001 : 37 -->  test_verify_title_001 is passed
+2025-08-12 11:15:12,381 : INFO : Test_Login_001 : test_verify_title_001 : 38 -->  Taking screenshot
+2025-08-12 11:15:12,633 : INFO : Test_Login_001 : test_verify_title_001 : 46 -->  test_verify_title_001 is completed
+2025-08-12 11:15:13,264 : INFO : Test_Registration_002 : test_registration_002 : 41 -->  Verify registration
+2025-08-12 11:15:13,268 : INFO : Test_Registration_002 : test_registration_002 : 43 -->  test_registration_002 is passed
+2025-08-12 11:15:13,269 : INFO : Test_Registration_002 : test_registration_002 : 44 -->  Taking screenshot
+2025-08-12 11:15:13,487 : INFO : Test_Registration_002 : test_registration_002 : 46 -->  Click Menu button
+2025-08-12 11:15:13,714 : INFO : Test_Registration_002 : test_registration_002 : 48 -->  Click logout button
+2025-08-12 11:15:14,813 : INFO : Test_Registration_002 : test_registration_002 : 56 -->  test_registration_002 is completed
+2025-08-12 11:15:16,583 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-12 11:15:16,584 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-12 11:15:16,720 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:15:17,171 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->4
+2025-08-12 11:15:17,233 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in
+2025-08-12 11:15:17,418 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-12 11:15:17,534 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-12 11:15:20,901 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-12 11:15:31,179 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-12 11:15:31,180 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-12 11:15:31,291 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 31 -->  Opening the login page-->https://automation.credence.in/login
+2025-08-12 11:15:31,733 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 33 -->  Reading data from row-->5
+2025-08-12 11:15:31,785 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 38 -->  Enter email-->credencejune01@credence.in1
+2025-08-12 11:15:31,876 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 40 -->  Enter password-->Credence@1231
+2025-08-12 11:15:31,947 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 42 -->  Click login button
+2025-08-12 11:15:34,932 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 45 -->  Verify login
+2025-08-12 11:15:45,371 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 57 -->  login fail
+2025-08-12 11:15:45,371 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 58 -->  Taking screenshot
+2025-08-12 11:15:45,493 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 74 -->  test_verify_login_excel_006 is passed
+2025-08-12 11:15:45,493 : INFO : Test_Login_Excel_005 : test_verify_login_excel_006 : 79 -->  test_verify_login_excel_006 is completed

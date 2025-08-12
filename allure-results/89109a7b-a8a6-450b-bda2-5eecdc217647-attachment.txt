@@ -1,0 +1,12 @@
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:23 test_verify_login_param_005 is started
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:24 Opening the login page-->https://automation.credence.in/login
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:30 Enter email -->credencejune01@credence.in
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:32 enter password -->Credence@123
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:34 Clicking Login button
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:36 verify login
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:38 login pass
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:39 Taking screenshot
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:41 Click menu button
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:43 Click logout button
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:53 test_verify_login_param_005 is passed
+[32mINFO    [0m Test_Login_params_002:test_Credkart_login_params_004.py:59 test_verify_login_param_005 is completed

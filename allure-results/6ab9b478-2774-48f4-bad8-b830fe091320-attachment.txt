@@ -1,0 +1,23 @@
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:19 Test_checkout_004 is started
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:20 Opening the login page -->https://automation.credence.in/login
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:23 credencejune01@credence.in
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:25 Credence@123
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:27 Click login page
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:29 Click product button 
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:31 Click add to cart button
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:33 Click proceed to checkout
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:35 Enter first name
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:37 Enter last name
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:39 Enter phone number
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:41 Enter address
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:43 Enter zip Code
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:45 Enter state
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:47 Enter Owner name
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:49 Enter cvv
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:51 Enter card number
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:56 Enter year
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:58 Enter Month
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:60 Click continue checkout button
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:62 verify checkout
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:65 test_checkout_004 is passed
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:66 Taking screenshot

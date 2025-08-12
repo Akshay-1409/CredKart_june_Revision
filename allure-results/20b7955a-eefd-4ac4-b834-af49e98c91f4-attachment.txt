@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:31 test_verify_title_001 is started
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:32 Opening the login page -->https://automation.credence.in/login
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:34 verifying page title
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:35 title of the page -->CredKart
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:37 test_verify_title_001 is passed
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:38 Taking screenshot
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:46 test_verify_title_001 is completed

@@ -1,0 +1,12 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:137 The chromedriver version (137.0.7151.68) detected in PATH at C:\Users\Akshay\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (138.0.7204.184); currently, chromedriver 138.0.7204.183 is recommended for chrome 138.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:56 test_verify_login_002 is started
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:57 Opening the login page -->https://automation.credence.in/login
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:60 Enter email
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:62 Enter password
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:64 Click login button
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:66 verify login
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:68 test_verify_login_002 is failed
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:69 Taking screenshot
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:71 Click menu button
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:73 Click logout button
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:81 test_verify_login_002 is completed
